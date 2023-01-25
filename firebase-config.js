@@ -1,11 +1,12 @@
 const firebaseConfig = {
-    apiKey: import.meta.env.VITE_KEY,
-    authDomain: import.meta.env.VITE_AUTH,
-    projectId: import.meta.env.VITE_ID,
-    databaseURL: import.meta.env.VITE_URL,
-    storageBucket: import.meta.env.VITE_BUCKET,
-    messagingSenderId: import.meta.env.VITE_SENDER,
-    appId: import.meta.env.VITE_APP
+    apiKey: "AIzaSyDWeyVqi30h9GoUa-sTI0Ja_4ZQJDEPHDE",
+    authDomain: "devaankett.firebaseapp.com",
+    databaseURL: "https://devaankett-default-rtdb.asia-southeast1.firebasedatabase.app",
+    databaseURL: "https://devaankett-default-rtdb.asia-southeast1.firebasedatabase.app/",
+    projectId: "devaankett",
+    storageBucket: "devaankett.appspot.com",
+    messagingSenderId: "893556425146",
+    appId: "1:893556425146:web:ab192becce561a0baadd83"
 };
 
 
